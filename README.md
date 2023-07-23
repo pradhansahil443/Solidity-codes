@@ -1,6 +1,6 @@
 # Tokens
 
-This Solidity program is a simple "Token" program that demonstrates the syntax and functionality of the Solidity programming language. The purpose of this program is to serve as a guide for those who are new to Solidity and want to create programs and want to get a feel for how it works.
+This straightforward Solidity code presents a basic "Token" program, showcasing the fundamental syntax and functionalities of the Solidity programming language. The main objective behind this program is to offer a stepping stone for newcomers to Solidity, granting them a practical understanding of its workings.
 
 ## Description
 

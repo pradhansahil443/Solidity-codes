@@ -58,7 +58,3 @@ Also you can burn(delete) the token with "burn" function.
 Sahil Pradhan  
 [@metacraftersio](https://twitter.com/metacraftersio)
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
